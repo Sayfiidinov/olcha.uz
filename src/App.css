@@ -1,0 +1,26 @@
+.praductCard .btn{
+  display: block;
+}
+
+.praductCard:hover{
+  box-shadow:0 10px 20px 0 rgba(0, 0, 0, 0.362) ;
+
+}
+@media screen and (min-width :1200px) {
+  .productCol{
+    width: 20% !important;
+
+  }
+  
+}
+.priceMonth{
+  background-color: red;
+  padding: 2px 10px;
+  border-radius: 20px;
+  color: white;
+  display: inline-block;
+  
+}
+.title{
+  font-size: 18px;
+}
